@@ -6,7 +6,7 @@ DevPulse is a robust, role-based backend system built to track internal technica
 
 ## 🌐 Project Links
 
-- **Live API (Vercel):** [https://devpulse8106-api.vercel.app](https://devpulse8106-api.vercel.app)
+- **Live API (Vercel):** [https://devpulse-serverapi.vercel.app](https://devpulse-serverapi.vercel.app)
 - **GitHub Repository:** [https://github.com/arafathussen/devpulse-assignment-2](https://github.com/arafathussen/devpulse-assignment-2)
 
 ---
@@ -129,3 +129,9 @@ The server will initialize and listen on `http://localhost:5000`.
 | Edit Anyone's Issues | ❌ Denied | ✅ Allowed |
 | Change Issue Status | ❌ Denied | ✅ Allowed |
 | Delete Any Issue | ❌ Denied | ✅ Allowed |
+
+---
+
+<br>
+
+> *Thanks for checking out my work! Developed with strict adherence to TypeScript, Modular Architecture, and secure API best practices.*
